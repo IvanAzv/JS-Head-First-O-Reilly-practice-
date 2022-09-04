@@ -9,4 +9,4 @@ while (scoops>0) {
     }
     scoops = scoops - 1;
 }
-document.write('ouhhh, i want more ice cream')
+document.write('ouhhh, i want more ice cream<br>')
