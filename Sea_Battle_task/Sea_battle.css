@@ -1,0 +1,14 @@
+.div{
+    width: 100%;
+    margin: auto;
+}
+
+h1{
+    text-transform: uppercase;
+    width: 50%;
+    margin: auto;
+    font-size: xx-large;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
