@@ -1,7 +1,8 @@
 // Оголошуємо змінні для положення судна
-let location1 = 3;
-let location2 = 4;
-let location3 = 5;
+let randomLoc = Math.floor(Math.random() * 5); 
+let location1 = randomLoc;
+let location2 = randomLoc + 1;
+let location3 = randomLoc + 2;
 // змінні для дій користувача
 let guess;
 let hits = 0;
