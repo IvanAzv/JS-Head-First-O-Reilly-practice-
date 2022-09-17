@@ -1,5 +1,3 @@
-console.log('fdsfsd')
-
 function bark(name, weight) {
     if (weight>20) {
         console.log(name + 'says WOFF WOOF');
@@ -9,4 +7,3 @@ function bark(name, weight) {
 }
 
 
-console.log('323')
