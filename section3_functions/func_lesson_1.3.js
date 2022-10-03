@@ -1,3 +1,12 @@
+// let balance = 100;
+// function steal(banx, amount) {
+//     balance = banx - amount;
+//     console.log(balance); 
+// }
+
+// console.log(steal(175,87))
+// console.log(balance)
+
 function clunk(times) {
     let num = times;
     while (num>0) {
