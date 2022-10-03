@@ -10,6 +10,6 @@ function bake(degrees) {
     return message;
 }
 
-let status = bake(350);
-console.log(status);
+let statut = bake(350);
+console.log(statut);
 console.log(bake(99));
